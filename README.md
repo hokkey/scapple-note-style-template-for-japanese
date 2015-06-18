@@ -1,4 +1,4 @@
-scapple-note-style-template-for-jpn-lang
+日本語向けScappleノートスタイルテンプレート
 ============
 
 ![preview of this template](https://raw.githubusercontent.com/hokkey/scapple-note-style-template-for-japanese/master/preview.png)
@@ -23,6 +23,6 @@ A customized note style template of [Scapple](https://www.literatureandlatte.com
 
 MIT License
 
-## Designer
+## Designer／デザイナー
 
 [@y_hokkey](http://twitter.com/y_hokkey)
